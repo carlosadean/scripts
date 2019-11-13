@@ -20,3 +20,13 @@ cd /dir/onde/estao/os/fits
 python count_objects_into_fits.py
 
 ```
+
+### rsync parallel
+Script que executa rsync em paralelo
+
+OBS: definir os paths nas variáveis `SRCDIR` e `DESTDIR`, a quantidade de threads definir na variável `THREADS`.
+
+```sh
+./rsync_parallel.sh
+
+```
