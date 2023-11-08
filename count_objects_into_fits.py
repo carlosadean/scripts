@@ -1,16 +1,16 @@
 #!/usr/bin/env python
 #
-# Creator: carlosadean@linea.gov.br
+# Creator: carlosadean at linea.org.br
 # 
 # Name: count_objects_into_fits
-# Version: 1.0 2019-03-01
-# Short description: script to counts lines(objects) into fits files
+# Version: 2.0 2023-11-08
+# Short description: script to count lines(objects) into fits files
 #
 # Dependencies: pyfits 3.4+0
 #
 # How to use: 
-# 1 - setup eups and load pyfits 3.4+0
-# 2 - access the dir where .fits live
+# 1 - setup eups and load pyfits 3.4+0 (maybe it works with other pytfits version)
+# 2 - access the directory where the FITS files are
 # 3 - run the script as 'python count_objects_into_fits.py' and wait the result
 #
 # the output of the script looks like this:
