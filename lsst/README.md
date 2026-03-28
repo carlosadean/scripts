@@ -1,4 +1,5 @@
 ---
+**Criado com auxílio do Gemini**
 
 # 📑 Automação de Relatórios Rubin (IDAC-BR)
 
@@ -36,7 +37,7 @@ Esta automação consiste em um Google Apps Script vinculado à planilha de cont
 
 ## 🎨 Formatação de Saída (Markdown)
 
-Para garantir a legibilidade e profissionalismo, o script aplica as seguintes regras:
+Para garantir a legibilidade, o script aplica as seguintes regras:
 
 * **Títulos de Seção:** Usa `## NOME DA ÁREA` (ex: `## HARDWARE`).
 * **Destaque de Atividades:** Títulos e status são formatados em negrito: `**Título da Atividade - STATUS**`.
@@ -59,7 +60,3 @@ O script depende das seguintes colunas (os nomes devem ser exatos no cabeçalho)
 * `Status`: Status da tarefa.
 * `Description (1-2 lines)`: Detalhamento técnico.
 * `Type (PQ/UQ)`: Define se é Planejado (PQ) ou Não Planejado (UQ).
-
----
-
-**Qual o próximo passo? Deseja revisar mais alguma descrição técnica para o Q3?**
