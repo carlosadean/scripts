@@ -1,5 +1,4 @@
 ---
-**Criado com auxílio do Gemini**
 
 # 📑 Automação de Relatórios Rubin (IDAC-BR)
 
@@ -60,3 +59,7 @@ O script depende das seguintes colunas (os nomes devem ser exatos no cabeçalho)
 * `Status`: Status da tarefa.
 * `Description (1-2 lines)`: Detalhamento técnico.
 * `Type (PQ/UQ)`: Define se é Planejado (PQ) ou Não Planejado (UQ).
+
+---
+
+**Criado com auxílio do Gemini**
